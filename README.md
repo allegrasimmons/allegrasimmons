@@ -15,6 +15,9 @@ Welcome to my GitHub portfolio! I'm a passionate Data Scientist and recent gradu
 - Comfortable in cloud environments such as AWS Cloud and Google Cloud IoT, crafting prototypes with tools like Figma, Canva, and Adobe XD, and I'm well-versed in IoT applications with Raspberry Pi and AWS IoT.
 - My version control of choice is Git, facilitated through GitHub for seamless collaboration and code management.
 
+📚 Projects
+- Take a look at my [projects!](https://github.com/allegrasimmons/my_projects)
+
 Through this repository of experiences, I hope to continue contributing to impactful data science projects and welcome collaboration or discussions on potential opportunities.
 
 Let's [connect](www.linkedin.com/in/allegra-bsimmons)!
